@@ -1,0 +1,6 @@
+Warning[207] D:\MPLAB\CP1DPROJECT.X\PROJECTT.ASM 31 : Found label after column 1. (LCD_CTRL)
+Warning[207] D:\MPLAB\CP1DPROJECT.X\PROJECTT.ASM 32 : Found label after column 1. (LCD_DATA)
+Warning[207] D:\MPLAB\CP1DPROJECT.X\PROJECTT.ASM 33 : Found label after column 1. (RS)
+Warning[207] D:\MPLAB\CP1DPROJECT.X\PROJECTT.ASM 34 : Found label after column 1. (EN)
+Warning[205] D:\MPLAB\CP1DPROJECT.X\PROJECTT.ASM 38 : Found directive in column 1. (ORG)
+Warning[205] D:\MPLAB\CP1DPROJECT.X\PROJECTT.ASM 241 : Found directive in column 1. (END)
